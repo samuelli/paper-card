@@ -14,7 +14,7 @@ jsbin=https://jsbin.com/cagaye/edit?html,output
 # Polymer Elements
 ## Guide for Contributors
 
-Polymer Elements are built in the open, and the Polymer authors eagerly encourage any and all forms of community contribution. When contributing, please follow these guidelines:
+Polymer Elements are built in the open, and the Polymer authors eagerly encourage any and all forms of community contribution. When contributing, please follow these guidelines:aoei
 
 ### Filing Issues
 
