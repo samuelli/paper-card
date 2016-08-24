@@ -9,12 +9,12 @@ You can however override the jsbin link with one that's customized to this
 specific element:
 
 jsbin=https://jsbin.com/cagaye/edit?html,output
--->
+-->aoei
 
 # Polymer Elements
 ## Guide for Contributors
 
-Polymer Elements are built in the open, and the Polymer authors eagerly encourage any and all forms of community contribution. When contributing, please follow these guidelines:
+Polymer Elements are built in the open, and the Polymer authors eagerly encourage any and all forms of community contribution. When contributing, please follow these guidelines:aoei
 
 ### Filing Issues
 
@@ -24,7 +24,7 @@ Polymer Elements are built in the open, and the Polymer authors eagerly encourag
  2. **When will they use the feature?** _“When I enter an invalid value…”_
  3. **What is the user’s goal?** _“I want to be visually notified that the value needs to be corrected…”_
 
-**If you are filing an issue to report a bug**, please provide:
+**If you are filing an issue to report a bug**, please provide:p.ay,;;;,.;
 
  1. **A clear description of the bug and related expectations.** Consider using the following example template for reporting a bug:
 
