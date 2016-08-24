@@ -9,7 +9,7 @@ You can however override the jsbin link with one that's customized to this
 specific element:
 
 jsbin=https://jsbin.com/cagaye/edit?html,output
--->
+-->aoei
 
 # Polymer Elements
 ## Guide for Contributors
