@@ -12,10 +12,13 @@ thing! https://github.com/PolymerLabs/tedium/issues
 
 -->
 
+
 [![Build status](https://travis-ci.org/PolymerElements/paper-card.svg?branch=master)](https://travis-ci.org/PolymerElements/paper-card)
 
 _[Demo and API docs](https://elements.polymer-project.org/elements/paper-card)_
 
+
+I hope this demo works!!!
 
 ##&lt;paper-card&gt;
 
