@@ -38,5 +38,6 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "pages": {
-    "Best practices": "guides/bp.md
+    "Best practices": "guides/bp.md"
+  }
 }
