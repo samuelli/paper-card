@@ -321,12 +321,8 @@ The same rules can be used for children in vertical layouts.
 </div>
 ```
 
-**Note**: for vertical layouts, the container needs to have a height for the
+> **Note**: for vertical layouts, the container needs to have a height for the
 children to flex correctly.
-
-
-
-
 
 #### Flex ratios
 
@@ -347,41 +343,43 @@ The classes listed here are included in the `iron-flex-factors` module of the `i
         </div>
 
 **Example: mixins**
+<!--
+```
+<custom-element-demo>
+  <template>
+    <link rel="import" href="iron-flex-layout.html">
+    <next-code-block></next-code-block>
+  </template>
+</custom-element-demo>
+```
+-->
+```html
+<style>
+  .container {
+    @apply --layout-horizontal;
+  }
+  .flexchild {
+    @apply --layout-flex;
+  }
+  .flex2child {
+    @apply --layout-flex-2;
+  }
+  .flex3child {
+    @apply --layout-flex-3;
+  }
+</style>
 
-    <dom-module id="mixin-demo">
-
-      <style>
-        .container {
-          @apply --layout-horizontal;
-        }
-        .flexchild {
-          @apply --layout-flex;
-        }
-        .flex2child {
-          @apply --layout-flex-2;
-        }
-        .flex3child {
-          @apply --layout-flex-3;
-        }
-      </style>
-
-      <template>
-
-        <div class="container">
-          <div class="flex3child">One</div>
-          <div class="flexchild">Two</div>
-          <div class="flex2child">Three</div>
-        </div>
-
-        ...
-
-**Example output**
-
-<div class="horizontal layout demo">
-  <div class="flex-3">Alpha</div>
-  <div class="flex">Beta</div>
-  <div class="flex-2">Gamma</div>
+<div class="container">
+  <div class="flex3child">One</div>
+  <div class="flexchild">Two</div>
+  <div class="flex2child">Three</div>
 </div>
+```
+
+
+
+
+
 
 <!--
 ### Auto-vertical
