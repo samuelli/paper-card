@@ -1,6 +1,6 @@
 [![Build status](https://travis-ci.org/PolymerElements/paper-card.svg?branch=master)](https://travis-ci.org/PolymerElements/paper-card)
 
-## &lt;paper-card&gt;
+## &lt;paper-card&gt;  
 
 Material design: [Cards](https://www.google.com/design/spec/components/cards.html)
 
